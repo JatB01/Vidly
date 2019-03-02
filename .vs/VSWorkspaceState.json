@@ -1,3 +1,13 @@
 {
+  "ExpandedNodes": [
+    "",
+    "\\Vidly2",
+    "\\Vidly2\\App_Data",
+    "\\Vidly2\\Controllers",
+    "\\Vidly2\\Models",
+    "\\Vidly2\\Views",
+    "\\Vidly2\\Views\\Customers"
+  ],
+  "SelectedNode": "\\Vidly2\\Views\\Customers\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
